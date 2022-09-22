@@ -1,0 +1,7 @@
+@charset "utf-8";
+.cn_label{display:inline-block;width:180px;}
+.cn_margins {background:#E8E5E5;padding:20px;}
+.cn_code {background:#eee; padding: 20px;}
+.cn_code code {padding:0;}
+
+.cn_margins label {display:inline-block; min-width:150px;}
